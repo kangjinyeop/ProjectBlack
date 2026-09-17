@@ -1,0 +1,31 @@
+# Visual Studio 기본 파일 및 디렉토리
+/.vs/
+/ipch/
+*.suo
+*.user
+*.userosversion
+*.filters
+*.VC.db
+*.opensdf
+*.sdf
+*.aps
+
+# 빌드 결과물 및 중간 파일 (Debug, Release, x64, x86 등)
+/Debug/
+/Release/
+/x64/
+/x86/
+ipch/
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.ipch
+
+# 로그 및 임시 파일
+*.log
+*.tlog
+*.lastbuildstate
